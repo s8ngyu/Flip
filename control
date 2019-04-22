@@ -1,0 +1,9 @@
+Package: com.peterdev.flip
+Name: Flip
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Unmirror the front camera
+Maintainer: PeterDev <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
+Section: Tweaks
